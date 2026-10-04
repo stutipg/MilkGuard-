@@ -1,0 +1,8 @@
+MILKGuard demo:
+1. Explain the collection-point screening problem.
+2. Show the proposed phone + controlled-light concept.
+3. Open the Analyze tab.
+4. Demonstrate Pure, Water-diluted and Starch-adulterated selections.
+5. Show the synthetic-data evaluation.
+6. Explicitly state that synthetic results are proof-of-concept only.
+7. Explain real-sample validation as the next stage.
